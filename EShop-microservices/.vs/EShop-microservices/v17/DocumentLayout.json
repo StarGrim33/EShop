@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-30T12:43:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T12:38:29.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
