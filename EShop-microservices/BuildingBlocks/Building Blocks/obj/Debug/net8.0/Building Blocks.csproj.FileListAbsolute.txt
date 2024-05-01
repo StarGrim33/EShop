@@ -1,0 +1,13 @@
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\bin\Debug\net8.0\Building Blocks.deps.json
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\bin\Debug\net8.0\Building Blocks.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\bin\Debug\net8.0\Building Blocks.pdb
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.AssemblyInfoInputs.cache
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.AssemblyInfo.cs
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.csproj.CoreCompileInputs.cache
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.sourcelink.json
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\refint\Building Blocks.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\Building Blocks.pdb
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\BuildingBlocks\Building Blocks\obj\Debug\net8.0\ref\Building Blocks.dll

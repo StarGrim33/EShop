@@ -24,3 +24,9 @@ C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\Catal
 C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\obj\Debug\net8.0\CatalogAPI.pdb
 C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\obj\Debug\net8.0\CatalogAPI.genruntimeconfig.cache
 C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\obj\Debug\net8.0\ref\CatalogAPI.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\bin\Debug\net8.0\MediatR.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\bin\Debug\net8.0\Building Blocks.dll
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\bin\Debug\net8.0\Building Blocks.pdb
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\obj\Debug\net8.0\CatalogAPI.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\Services\Catalog\CatalogAPI\obj\Debug\net8.0\CatalogAPI.csproj.Up2Date

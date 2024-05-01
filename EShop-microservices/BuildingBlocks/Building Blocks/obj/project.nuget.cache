@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7UNv+iQnaEHChe4zMQZJVw7feRHSwLkYRb/kHWPJdPkcBlMz7ED5xczfu/debv2bWXzG7G7XvV+JGFWiiY9Gcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prosk\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\prosk\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\prosk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
