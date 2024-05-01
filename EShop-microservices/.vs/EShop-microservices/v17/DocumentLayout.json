@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\buildingblocks\\building blocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|solutionrelative:buildingblocks\\building blocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\buildingblocks\\building blocks\\building blocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|solutionrelative:buildingblocks\\building blocks\\building blocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\buildingblocks\\building blocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|solutionrelative:buildingblocks\\building blocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\buildingblocks\\building blocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|solutionrelative:buildingblocks\\building blocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C7A2C12-8010-4B11-90D3-15304888CB41}|BuildingBlocks\\Building Blocks\\Building Blocks.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\buildingblocks\\building blocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\prosk\\onedrive\\desktop\\eshop\\eshop-microservices\\services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C126B910-F71A-4A9D-B07B-8B09B3E3FCCD}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -46,24 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CatalogAPI",
-              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Building Blocks",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+              "RelativeToolTip": "BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T09:10:39.33Z",
+              "WhenOpened": "2024-05-01T13:00:16.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:35:47.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:38:23.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:59:29.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T12:32:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T16:38:04.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\CQRS\\IQueryHandler.cs",
@@ -76,33 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
-              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
-              "RelativeToolTip": "BuildingBlocks\\Building Blocks\\CQRS\\ICommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T08:59:29.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:38:04.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\CQRS\\IQuery.cs",
@@ -115,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\Building Blocks\\CQRS\\ICommand.cs",
@@ -128,20 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateProductEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ToolTip": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T16:38:23.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
@@ -154,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Catalog\\CatalogAPI\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Dockerfile",
