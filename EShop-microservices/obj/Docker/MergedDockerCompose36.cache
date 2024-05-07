@@ -1,0 +1,31 @@
+name: dockercompose14743107179057926854
+services:
+  catalogdb:
+    build:
+      context: C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices
+      dockerfile: \Services\Catalog\CatalogAPI\
+    container_name: catalogdb
+    environment:
+      POSTGRES_DB: CatalogDb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: postgres_catalog
+        target: /var/lib/postgresql/data
+        volume: {}
+networks:
+  default:
+    name: dockercompose14743107179057926854_default
+volumes:
+  postgres_catalog:
+    name: dockercompose14743107179057926854_postgres_catalog

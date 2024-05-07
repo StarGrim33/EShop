@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+fQk8+PRKuSqGp99FAnJf038Q0be/2u/JciFWoOisMkBIwCMeqap1Y+9Ox7n8562G0fnuAfYGmxwuFmkBDvVyQ==",
+  "dgSpecHash": "7aaB6FKZdzo3NfMZU2re1ob5HLJ1ni75ZklLfzkt+xccXE074iLV5I83/cyD1fIDhDDO9mmaSMQJ6t9eAH0LDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\prosk\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\prosk\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "C:\\Users\\prosk\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\prosk\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\prosk\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

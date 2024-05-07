@@ -1,0 +1,1 @@
+C:\Users\prosk\OneDrive\Desktop\EShop\EShop-microservices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

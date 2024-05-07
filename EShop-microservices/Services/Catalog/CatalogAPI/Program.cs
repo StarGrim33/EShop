@@ -1,22 +1,34 @@
-namespace CatalogAPI
+using Building_Blocks.Behaviors;
+
+namespace CatalogAPI;
+
+public class Program
 {
-    public class Program
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args)
+        var builder = WebApplication.CreateBuilder(args);
+        var assembly = typeof(Program).Assembly;
+
+        builder.Services.AddCarter();
+
+        builder.Services.AddMediatR(configuration =>
         {
-            var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddCarter();
-            builder.Services.AddMediatR(configuration =>
-            {
-                configuration.RegisterServicesFromAssembly(typeof(Program).Assembly);
-            });
+            configuration.RegisterServicesFromAssembly(assembly);
+            configuration.AddOpenBehavior(typeof(ValidationBehavior<,>));
+        });
 
-            var app = builder.Build();
+        builder.Services.AddValidatorsFromAssembly(assembly);
 
-            app.MapGet("/", () => "Catalog API");
-            app.MapCarter();
+        builder.Services.AddMarten(options =>
+        {
+            options.Connection(builder.Configuration.GetConnectionString("Database")!);
+        }).UseLightweightSessions();
 
-            app.Run();
-        }
+        var app = builder.Build();
+
+        app.MapGet("/", () => "Catalog API");
+        app.MapCarter();
+
+        app.Run();
     }
 }
