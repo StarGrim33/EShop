@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1OEvn5jeX4U8kfJZ1umB/xGYffHup5zCVnoQlU7NFHyGlBtHT1Fb/Q2VnM3BGABsSxRRHkTO5djEY/GggFtuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Basket\\BasketAPI\\BasketAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prosk\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
