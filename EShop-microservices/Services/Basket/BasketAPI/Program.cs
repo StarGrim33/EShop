@@ -1,15 +1,18 @@
-namespace BasketAPI
+namespace BasketAPI;
+
+public class Program
 {
-    public class Program
+    public static void Main(string[] args)
     {
-        public static void Main(string[] args)
-        {
-            var builder = WebApplication.CreateBuilder(args);
-            var app = builder.Build();
+        var builder = WebApplication.CreateBuilder(args);
+        builder.Services.AddExceptionHandler<CustomExceptionHandler>();
+        builder.Services.RegisterServices(builder);
 
-            app.MapGet("/", () => "BasketAPI!");
+        var app = builder.Build();
 
-            app.Run();
-        }
+        app.MapGet("/", () => "BasketAPI!");
+        app.MapCarter();
+        app.UseExceptionHandler(options => { });
+        app.Run();
     }
 }
