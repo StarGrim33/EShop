@@ -7,6 +7,5 @@ global using Mapster;
 global using Marten;
 global using MediatR;
 global using Building_Blocks.Behaviors;
-global using Building_Blocks.Exceptions.Handler;
 global using CatalogAPI.Data;
-
+global using Building_Blocks.Exceptions.Handler;

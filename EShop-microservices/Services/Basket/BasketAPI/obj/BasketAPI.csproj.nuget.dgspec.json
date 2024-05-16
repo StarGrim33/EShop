@@ -4,6 +4,83 @@
     "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Basket\\BasketAPI\\BasketAPI.csproj": {}
   },
   "projects": {
+    "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+        "projectName": "Building Blocks",
+        "projectPath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj",
+        "packagesPath": "C:\\Users\\prosk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\prosk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\Services\\Basket\\BasketAPI\\BasketAPI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,27 +104,42 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj": {
+                "projectPath": "C:\\Users\\prosk\\OneDrive\\Desktop\\EShop\\EShop-microservices\\BuildingBlocks\\Building Blocks\\Building Blocks.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Carter": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[7.11.0, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.0-preview.3.24172.13, )"
+            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.19.6, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
